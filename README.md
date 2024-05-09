@@ -176,5 +176,3 @@ Password: 123456
 #### Home
 
 ![Home](https://i.ibb.co/q1WXQL6/Home.jpg)
-
-Por temas de tiempo, se utilizaron seeders encontrados en la web.
